@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/DappWhiteListDeployed/static/css/main.b100e6da.chunk.css",
+    "main.js": "/DappWhiteListDeployed/static/js/main.cd7da1ad.chunk.js",
+    "main.js.map": "/DappWhiteListDeployed/static/js/main.cd7da1ad.chunk.js.map",
+    "runtime-main.js": "/DappWhiteListDeployed/static/js/runtime-main.61241c7c.js",
+    "runtime-main.js.map": "/DappWhiteListDeployed/static/js/runtime-main.61241c7c.js.map",
+    "static/css/2.9ff99f11.chunk.css": "/DappWhiteListDeployed/static/css/2.9ff99f11.chunk.css",
+    "static/js/2.8e48020b.chunk.js": "/DappWhiteListDeployed/static/js/2.8e48020b.chunk.js",
+    "static/js/2.8e48020b.chunk.js.map": "/DappWhiteListDeployed/static/js/2.8e48020b.chunk.js.map",
+    "index.html": "/DappWhiteListDeployed/index.html",
+    "precache-manifest.610789a2964d9b5346c99bcb95e8f0cf.js": "/DappWhiteListDeployed/precache-manifest.610789a2964d9b5346c99bcb95e8f0cf.js",
+    "service-worker.js": "/DappWhiteListDeployed/service-worker.js",
+    "static/css/2.9ff99f11.chunk.css.map": "/DappWhiteListDeployed/static/css/2.9ff99f11.chunk.css.map",
+    "static/css/main.b100e6da.chunk.css.map": "/DappWhiteListDeployed/static/css/main.b100e6da.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.61241c7c.js",
+    "static/css/2.9ff99f11.chunk.css",
+    "static/js/2.8e48020b.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.cd7da1ad.chunk.js"
+  ]
+}
